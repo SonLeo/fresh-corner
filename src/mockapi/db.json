@@ -1,52 +1,52 @@
 {
-    "header-slide-content": [
+    "header-slide-contents": [
         {
             "id": 1,
-            "content": "Sản phẩm nguyên chất - không chất bảo quản",
+            "title": "Sản phẩm nguyên chất - không chất bảo quản",
             "icon": "🌿",
             "link": "#",
-            "time-start": "",
-            "time-end": ""
+            "startDate": "",
+            "endDate": ""
         },
         {
             "id": 2,
-            "content": "Nguyên liêu tươi mới - thanh mát tự nhiên",
+            "title": "Nguyên liêu tươi mới - thanh mát tự nhiên",
             "icon": "🥭",
             "link": "#",
-            "time-start": "",
-            "time-end": ""
+            "startDate": "",
+            "endDate": ""
         },
         {
             "id": 3,
-            "content": "Mua combo tiết kiệm - nhận quà hấp dẫn",
+            "title": "Mua combo tiết kiệm - nhận quà hấp dẫn",
             "icon": "🎁",
             "link": "#",
-            "time-start": "",
-            "time-end": ""
+            "startDate": "",
+            "endDate": ""
         },
         {
             "id": 4,
-            "content": "Tích điểm thành viên - ưu đãi đặc biệt",
+            "title": "Tích điểm thành viên - ưu đãi đặc biệt",
             "icon": "💎",
             "link": "#",
-            "time-start": "",
-            "time-end": ""
+            "startDate": "",
+            "endDate": ""
         },
         {
             "id": 5,
-            "content": "Order online nhanh chóng - Nhận hàng tận nơi",
+            "title": "Order online nhanh chóng - Nhận hàng tận nơi",
             "icon": "📱",
             "link": "#",
-            "time-start": "",
-            "time-end": ""
+            "startDate": "",
+            "endDate": ""
         },
         {
             "id": 6,
-            "content": "Giao nhanh - miễn phí từ 100k",
+            "title": "Giao nhanh - miễn phí từ 100k",
             "icon": "🚚",
             "link": "#",
-            "time-start": "",
-            "time-end": ""
+            "startDate": "",
+            "endDate": ""
         }
     ]
 }
